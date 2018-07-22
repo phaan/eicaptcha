@@ -1,0 +1,38 @@
+<?php
+
+global $_MODULE;
+$_MODULE = array();
+$_MODULE['<{eicaptcha}prestashop>eicaptcha_3e87eed4786fe702ae961b55bbf02c6a'] = 'EiCaptcha';
+$_MODULE['<{eicaptcha}prestashop>eicaptcha_76870a3a596aa5fe3b836a20e53c7698'] = 'Captcha toevoegen aan het contactformulier en een account aanmaken';
+$_MODULE['<{eicaptcha}prestashop>eicaptcha_793b58515cefe26f6a3c5ab782460a69'] = 'De Captcha-modus moet worden geconfigureerd';
+$_MODULE['<{eicaptcha}prestashop>eicaptcha_c888438d14855d7d96a2724ee9c306bd'] = 'Bijgewerkte instellingen';
+$_MODULE['<{eicaptcha}prestashop>eicaptcha_fabff9d49a682feeffead298a9801c2b'] = 'EiCaptcha-configuratie';
+$_MODULE['<{eicaptcha}prestashop>eicaptcha_d2126da975d5b9a5b846efaf57d3fd53'] = 'Algemene configuratie';
+$_MODULE['<{eicaptcha}prestashop>eicaptcha_a88fa0f6033212151410a58809337c83'] = 'Geavanceerde instellingen';
+$_MODULE['<{eicaptcha}prestashop>eicaptcha_77f682c46c4c98d39cfb703d3606f505'] = 'Klik op de volgende link om uw eigen sleutels te herstellen';
+$_MODULE['<{eicaptcha}prestashop>eicaptcha_2d6759f60f165404e274683029df8e5b'] = 'Sitesleutel';
+$_MODULE['<{eicaptcha}prestashop>eicaptcha_de7e39ae12eb7d5e08c84ff8739ee5fc'] = 'Voer de sitesleutel in';
+$_MODULE['<{eicaptcha}prestashop>eicaptcha_532719b9b22c0444d8c65bdc6b80fa1e'] = 'Geheime sleutel';
+$_MODULE['<{eicaptcha}prestashop>eicaptcha_30c1139b1b654780ec1ef5c35323806d'] = 'Bedankt voor het invoeren van de geheime sleutel';
+$_MODULE['<{eicaptcha}prestashop>eicaptcha_8734cb06c440a837b751eb664be56f3c'] = 'Activeer voor het contactformulier';
+$_MODULE['<{eicaptcha}prestashop>eicaptcha_00d23a76e43b46dae9ec7aa9dcbebb32'] = 'Geactiveerd';
+$_MODULE['<{eicaptcha}prestashop>eicaptcha_b9f5c797ebbf55adccdd8539a65a0241'] = 'Ongeldig';
+$_MODULE['<{eicaptcha}prestashop>eicaptcha_4d43056cebf6d60747ad8064a941b8cd'] = 'Inschakelen voor het maken van een account';
+$_MODULE['<{eicaptcha}prestashop>eicaptcha_2f298dd749c5c927a272586189aecaa9'] = 'Taal dwingen';
+$_MODULE['<{eicaptcha}prestashop>eicaptcha_10f6ad136e375a00eff3356bb4caa692'] = 'Taalcode (en-GB | de | de-AT | ...) - leeg laten voor automatische detectie';
+$_MODULE['<{eicaptcha}prestashop>eicaptcha_43ec71bfafdad1482bff90168f80531b'] = 'Raadpleeg de pagina om de lijst met beschikbare taalcodes te bekijken: https://developers.google.com/recaptcha/docs/language';
+$_MODULE['<{eicaptcha}prestashop>eicaptcha_d721757161f7f70c5b0949fdb6ec2c30'] = 'Thema';
+$_MODULE['<{eicaptcha}prestashop>eicaptcha_9914a0ce04a7b7b6a8e39bec55064b82'] = 'Licht';
+$_MODULE['<{eicaptcha}prestashop>eicaptcha_a18366b217ebf811ad1886e4f4f865b2'] = 'Donker';
+$_MODULE['<{eicaptcha}prestashop>eicaptcha_8819c44e0c4c2f8e4a78d88f8f98de20'] = 'Schakel debug in';
+$_MODULE['<{eicaptcha}prestashop>eicaptcha_8477ce97d6ad94af8e8d6adb6bde19ae'] = 'Gebruik alleen tijdelijk om te debuggen';
+$_MODULE['<{eicaptcha}prestashop>eicaptcha_1d0820fdba3c2a97b772aaabaedadf3e'] = 'Schakel debug-logs in voor de module, zie in bestand %s';
+$_MODULE['<{eicaptcha}prestashop>eicaptcha_c4e00009bc799091d7a05f34537f721e'] = 'Controleer de installatie van de module';
+$_MODULE['<{eicaptcha}prestashop>eicaptcha_697a883b69deceeae91ca157b17cbb09'] = 'Controleer of de module correct is geïnstalleerd';
+$_MODULE['<{eicaptcha}prestashop>eicaptcha_935300aa46a1fb0c2f1ae2d444608232'] = 'Als u op deze link klikt, wordt de pagina opnieuw geladen, bedankt dat u ze terugstuurt op het tabblad \ "Geavanceerde instellingen \" om de resultaten te bekijken';
+$_MODULE['<{eicaptcha}prestashop>eicaptcha_c9cc8cce247e49bae79f15173ce97354'] = 'Besparen';
+$_MODULE['<{eicaptcha}prestashop>eicaptcha_632ee8e447c5c09ca7577f9281cbb999'] = 'Bedankt voor het valideren van de captcha';
+$_MODULE['<{eicaptcha}prestashop>eicaptcha_9ed81dbbae814f9a81cd15927ebd4795'] = 'Antwoord recaptcha %s';
+$_MODULE['<{eicaptcha}prestashop>eicaptcha_e8a0559d823da2ac04358b8bf1a1dbd1'] = 'Captcha met succes ingediend';
+$_MODULE['<{eicaptcha}prestashop>eicaptcha_01447f1863a21f8171b5894cc3e535ac'] = 'Voor deze module moet het kiezen werken, ga dan naar de map %s en voer de opdracht \ "composer install \" uit of download de nieuwste release van de pagina %s';
+$_MODULE['<{eicaptcha}prestashop>hookdisplaycustomeraccountform_45d048c35e3cfd449dc0a1b503cd103a'] = 'Captcha';
